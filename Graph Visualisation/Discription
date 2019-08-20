@@ -1,0 +1,6 @@
+# Graph Visualisation
+
+A program in C++ which uses GraphViz libraries to visualize weighted/non-weighted undirectional or directional graphs.
+Writing the .dot file using this program is easy, all it requires is [Starting & Ending nodes and Weights(if present)].
+
+By providing some simple details, you can visualize your graph.
