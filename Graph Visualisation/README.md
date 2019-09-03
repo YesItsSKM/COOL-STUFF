@@ -8,3 +8,5 @@ Input(Need to enter in program):
 
 Output:
   .png file of the graph.
+
+![output](https://user-images.githubusercontent.com/36617987/64170767-93a06e80-ce6e-11e9-940f-8bd344bba882.png)
