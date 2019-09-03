@@ -1,3 +1,3 @@
 ## SCHEDULING ALGORITHMS
 
-C implementation
+C implementation of process schedulers in Operating System.
